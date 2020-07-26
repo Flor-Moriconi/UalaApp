@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UalaApp</string>
+    <string name="search">Buscar</string>
+    <string name="meal_name">Nombre del plato: %1$s</string>
+    <string name="ingredient_list">Listado de ingredientes</string>
+    <string name="instructions">Instrucciones</string>
+    <string name="title_detail">Detalle del plato</string>
+    <string name="title_list">Recetas</string>
+</resources>
